@@ -18,7 +18,7 @@ namespace XamSharedDemo
 					Children = {
 						new Label {
 							XAlign = TextAlignment.Center,
-							Text = "Welcome to Xamarin Forms!"
+							Text = "Welcome to My Test of Xamarin Forms!"
 						}
 					}
 				}
