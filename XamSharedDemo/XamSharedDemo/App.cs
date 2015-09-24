@@ -17,7 +17,7 @@ namespace XamSharedDemo
 					VerticalOptions = LayoutOptions.Center,
 					Children = {
 						new Label {
-							XAlign = TextAlignment.Center,
+							XAlign = TextAlignment.Start,
 							Text = "Welcome to My Test of Xamarin Forms!"
 						}
 					}
